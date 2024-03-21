@@ -1,0 +1,10 @@
+
+.search-input {
+    &:focus {
+        border-radius: 0;
+        outline-color:#9F0013 ;
+        -webkit-box-shadow: 0px 4px 3px 0px #9F0013;
+        -moz-box-shadow: 0px 4px 3px 0px #9F0013;
+        box-shadow: 0px 4px 3px 0px #9F0013;
+    }
+}
